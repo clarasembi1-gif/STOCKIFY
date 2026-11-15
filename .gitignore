@@ -1,0 +1,19 @@
+# Composer dependencies
+/vendor/
+
+# Environment and sensitive files
+.env
+.env.*
+
+# IDE
+/.idea/
+/.vscode/
+
+# Operating system
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.log
+*.tmp
